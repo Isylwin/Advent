@@ -59,7 +59,7 @@
     <Compile Include="PathTest.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Advent\Day1.csproj">
+    <ProjectReference Include="..\Day1\Day1.csproj">
       <Project>{784CF053-8937-4C49-AD1B-2B3FFB1AFDB9}</Project>
       <Name>Day1</Name>
     </ProjectReference>
